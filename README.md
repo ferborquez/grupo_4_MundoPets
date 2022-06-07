@@ -25,9 +25,9 @@
 
 ###### Brian Gonzalez
 
--  años
+- 30 años.
 
-- Estudiante de Programacion Web en Digital House.
+- Estudiante de Programación Web Full Stack en Digital House.
 
 ## Tematica del sitio.
 []
