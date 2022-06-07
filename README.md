@@ -19,15 +19,15 @@
 
 ###### Melanie Lezcano
 
-- años.
+- 24 años.
 
-- Estudiante de Programacion Web en Digital House.
+- Ilustradora digital Freelance, diseñadora UX (conocimientos basicos),Estudiante de Programacion Web en Digital House.
 
 ###### Brian Gonzalez
 
 -  años
 
-- Estudiante de Desarrollo Web en Digital House.
+- Estudiante de Programacion Web en Digital House.
 
 ## Tematica del sitio.
 []
