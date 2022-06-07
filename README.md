@@ -13,9 +13,9 @@
 
 ###### Mercedes Alvarez
 
--  años.
+- 34 años.
 
-- Estudiante de Programación Web Full Stack.
+- Estudiante de Programación Web Full Stack, consultora natura, manicurista-esculpidora.
 
 ###### Melanie Lezcano
 
