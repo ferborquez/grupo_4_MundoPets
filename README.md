@@ -33,9 +33,13 @@
 ------------
 
 ## Tematica del sitio.
-[]
+Tematica elegida venta de alimentos para mascotas (perros y gatos)
 
 ------------
 
 ## Sitios que tomamos de referencia:
-[]
+www.petfood.com.ar
+www.petfoodsaladillo.com.ar
+www.royalcanin.com.ar
+www.purinalatam.com
+www.infinity.com.ar
