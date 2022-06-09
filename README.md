@@ -16,7 +16,7 @@
 
 - 34 años.
 
-- Estudiante de Programación Web Full Stack, consultora natura, manicurista-esculpidora.
+- Estudiante de Programación Web Full Stack Formar Digital House, consultora natura, manicurista-esculpidora.
 
 ###  Melanie Lezcano
 
@@ -38,7 +38,7 @@ Tematica elegida venta de alimentos para mascotas (perros y gatos)
 ------------
 
 ## Sitios que tomamos de referencia:
-www.petfood.com.ar
+www.petfood.com.ar 
 www.petfoodsaladillo.com.ar
 www.royalcanin.com.ar
 www.purinalatam.com
