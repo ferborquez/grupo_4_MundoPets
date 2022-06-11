@@ -32,8 +32,11 @@
 
 ------------
 
-## Tematica del sitio.
-Tematica elegida venta de alimentos para mascotas (perros y gatos)
+## Te damos la bienvenida a Mundo Pets
+Pensando en ellos
+Somos una empresa dedicada a la nutrición y ventade alimentos para mascotas.Te ofrecemos las mejores marcas de balanceado para perros y gatos,según investigaciones de marketing realizados en base a lo que busca las personas para sus mascotas.
+Siempre pensando en lo mejor para ellos,nuestros amigos de 4 patas.Brindamos  asesoramiento para elegir la mejor opcion según las necesidades de  tu mascota;nuestra meta es ofrecerles lo mejor en cuanto calidad y precio.
+En Mundo Pets tenemos amplia variedad de productos y contamos con el mejor precio del mercado.    
 
 ------------
 
