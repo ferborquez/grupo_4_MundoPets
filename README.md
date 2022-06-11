@@ -41,8 +41,13 @@ En Mundo Pets tenemos amplia variedad de productos y contamos con el mejor preci
 ------------
 
 ## Sitios que tomamos de referencia:
-- https://petfood.com.ar/ 
+- https://petfood.com.ar/  
+Colores,estructura de la pagina
 - https://petfoodsaladillo.com.ar/
+Presentacion de marcas seleccionadas
 - https://www.royalcanin.com/ar
+Eleccion de alimentos 
 - https://www.purina-latam.com/
+Eleccion de alimentos, estilo footer
 - https://infinity.com.ar/
+Categoria segun etapa de vida de las mascotas 
