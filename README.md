@@ -5,7 +5,7 @@
 
 ------------
 ## INTEGRANTES:
-
+- - 
 ###  Fernando Borquez
 
 - 32 años.
@@ -38,8 +38,8 @@ Tematica elegida venta de alimentos para mascotas (perros y gatos)
 ------------
 
 ## Sitios que tomamos de referencia:
-https://petfood.com.ar/ 
-https://petfoodsaladillo.com.ar/
-https://www.royalcanin.com/ar
-https://www.purina-latam.com/
-https://infinity.com.ar/
+- https://petfood.com.ar/ 
+- https://petfoodsaladillo.com.ar/
+- https://www.royalcanin.com/ar
+- https://www.purina-latam.com/
+- https://infinity.com.ar/
